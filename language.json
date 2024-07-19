@@ -1,0 +1,37 @@
+{
+    "list":[
+        {
+            "lang":"English",
+            "0":{
+                "title":"Main menu",
+                "text":"welcome the bulleten board of",
+                "help":"write the letter in the [] to chose an option with an - at the begining you can always type -h to get help"
+            },
+            "1":{
+                "title":"Bulletin Board",
+                "text":"That's the Bulletin Board",
+                "help":"the Posts you can view here are from people like you"
+            },
+            "2":{
+                "title":"Stettings",
+                "text":"",
+                "help":""
+            },
+            "3":{
+                "title":"view",
+                "text":"these are the posts",
+                "help":""
+            },
+            "4":{
+                "title":"Post",
+                "text":"leav thometing nice",
+                "help":""
+            },
+            "newUserAdd":"You are now added as a User see the Settings menu for more info.",
+            "newUserWelcome":"This is the MeshBoard of {0}\nif you want to enter send\n'-y' for [y]es.\nthen your device will be saved in a database if you want to delete it later visit the settings menu."
+        },
+        {
+            "lang":"Deutsch"
+        }
+    ]
+}
